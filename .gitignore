@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+.env
+.env.*
+.ipynb_checkpoints/
+
+# Data
+src/data/
+
+# Streamlit cache
+.streamlit/

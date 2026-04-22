@@ -1,0 +1,9 @@
+streamlit
+pandas
+numpy
+networkx
+plotly
+matplotlib
+seaborn
+scipy
+streamlit-plotly-events
